@@ -10,6 +10,11 @@
       "StackName": "amplify-tipr-dev-1591c",
       "StackId": "arn:aws:cloudformation:eu-west-2:175694920337:stack/amplify-tipr-dev-1591c/3f2ab140-4f82-11ef-94d0-0217178f59a3",
       "AmplifyAppId": "d39egwnxvspj5r"
+    },
+    "categories": {
+      "auth": {
+        "tiprbadb29ae": {}
+      }
     }
   }
 }
