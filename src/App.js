@@ -7,7 +7,7 @@ import {
   Image,
   View,
   Card,
-} from @aws-amplify/ui-react;
+} from '@aws-amplify/ui-react';
 
 
 function App({SignOut}) {
