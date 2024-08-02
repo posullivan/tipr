@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^5.3.3",
+    "@aws-amplify/ui-react": "^6.1.14",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "aws-amplify": "^5.3.20",
+    "aws-amplify": "^6.4.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.0.4",
-    "@aws-amplify/backend-cli": "^0.11.1",
+    "@aws-amplify/backend-cli": "^1.2.2",
     "aws-cdk": "^2.150.0",
     "aws-cdk-lib": "^2.150.0",
     "constructs": "^10.3.0",
